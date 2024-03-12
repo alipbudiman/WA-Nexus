@@ -21,10 +21,6 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 
 
 | Feature |  Status |  Check at |
-| --- | --- | --- |
 | Translate Language |  Active |  3/12/2024 |
-| --- | --- | --- |
 | Screenshot website page |  Error |  3/13/2024 |
-| --- | --- | --- |
 | Mentionall member on groups |  Active |  3/14/2024 |
-| --- | --- | --- |
