@@ -79,7 +79,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Demote User & Demote All User |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Lock Group |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Group Announce Mode |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Group Setting Menu (Set Group Name| Topic And Image) |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
+| Group Setting Menu (Set Group Name Topic And Image) |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Update Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Get Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Get Group Qr |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
