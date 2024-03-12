@@ -6,10 +6,12 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 
 # Contributor
 **Design**
--[Yukki Reio](https://instagram.com/yukkireio._?igshid=MzRlODBiNWFlZA==)
+
+- [Yukki Reio](https://instagram.com/yukkireio._?igshid=MzRlODBiNWFlZA==)
 
 **Donator**
--[Fajar Kurnia Putra](https://instagram.com/fjrkurnia_?igshid=MzRlODBiNWFlZA==)
+
+- [Fajar Kurnia Putra](https://instagram.com/fjrkurnia_?igshid=MzRlODBiNWFlZA==)
 
 # Group Discussion
 [Wa Nexus Community](https://chat.whatsapp.com/Gbe7Y7NHpZXEaLoQRc6WpD)
