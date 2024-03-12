@@ -1,4 +1,23 @@
 Feature,Status,Check at
 Translate Language,active,3/12/2024
-Screenshot website page,error,3/13/2024
-Mentionall member on groups,active,3/14/2024
+Screenshot website page,error,3/12/2024
+Mention all member on groups,active,3/12/2024
+Mention all member on groups (but hide the tags),active,3/12/2024
+Unsend bot message,active,3/12/2024
+check who read on group,active,3/12/2024
+check who typing on group,active,3/12/2024
+retrive unsend message from user in group,active,3/12/2024
+get user profile image,active,3/12/2024
+see bot setting for groups,active,3/12/2024
+get group information,active,3/12/2024
+make group pool,active,3/12/2024
+Bing AI,error,3/12/2024
+Chat GPT,active,3/12/2024
+Chat GPT Turbo,error,3/12/2024
+Generate Text to Image (AI Image),active-slow,3/12/2024
+Generate Image to Image (AI Image),active-slow,3/12/2024
+Chit Chat (Chat with Nexus AI),active,3/12/2024
+Play Music,active,3/12/2024
+Spotify Music,error,3/12/2024
+Random Anime Image,active,3/12/2024
+Instagram Profile,active,3/12/2024
