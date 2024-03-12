@@ -24,7 +24,9 @@ def main():
         elif stat[1].lower() == "error":
             stat[1] = "!<Inactive>(https://img.shields.io/badge/Inactive-red)"
         elif stat[1].lower() == "active-slow":
-            stat[1] = "!<Inactive>(https://img.shields.io/badge/Active%20Slow-blue)"
+            stat[1] = "!<Active Slow>(https://img.shields.io/badge/Active%20Slow-blue)"
+        elif stat[1].lower() == "wip":
+            stat[1] = "!<In Progress>(https://img.shields.io/badge/In%20Progress-yellow)"
         else:
             stat[1] = "!<Inactive>(https://img.shields.io/badge/Will%20Be%20Check-gray)"
         table += f"\n{replace_chars(str(stat))}"
