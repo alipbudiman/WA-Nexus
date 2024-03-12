@@ -84,3 +84,8 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Update Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Get Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
 | Get Group Qr |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
+| Tik Tok Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
+| You Tube Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
+| Twitter Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
+| Instagra Post Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
+| Spotify  Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
