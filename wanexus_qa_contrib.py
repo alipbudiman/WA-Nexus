@@ -9,9 +9,9 @@ def replace_chars(input_string):
 df = pd.read_csv('document/feature.csv')
 
 table = ""
-table = f"\n{replace_chars(str(list(df.head())))}\n| --- | --- | --- |"
+table = f"\n{replace_chars(str(list(df.head())))}\n| ------- |  ------ | --------- |"
 for i, data in enumerate(df):
-    table += f"\n{replace_chars(str(list(df.iloc[i])))}\n| --- | --- | --- |" 
+    table += f"\n{replace_chars(str(list(df.iloc[i])))}" 
     
 
 file = open("README.md", "r")
