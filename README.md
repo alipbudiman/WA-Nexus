@@ -15,7 +15,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 [Wa Nexus Community](https://chat.whatsapp.com/Gbe7Y7NHpZXEaLoQRc6WpD)
 
 # USE BOT
-[a-nexus.we.app](https://wa-nexus.web.app/)
+[wa-nexus.we.app](https://wa-nexus.web.app/)
 
 # FEATURE LIST
 
