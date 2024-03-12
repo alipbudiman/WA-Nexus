@@ -2,21 +2,36 @@ import pandas as pd
 
 def replace_chars(input_string):
     # Replace "[" , "]" , and "," with "|"
-    modified_string = input_string.replace("[", "|").replace("]", "|").replace(",", "|").replace("'", " ")
+    modified_string = (
+        input_string
+        .replace("[", "|")
+        .replace("]", "|").replace(",", "|")
+        .replace("'", " ")
+        .replace(">", "]")
+        .replace("<", "["))
     return modified_string
 
+def main():
+    df = pd.read_csv('document/feature.csv')
 
-df = pd.read_csv('document/feature.csv')
+    table = ""
+    table = f"\n{replace_chars(str(list(df.head())))}\n| ------- |  ------ | --------- |"
+    for i, data in enumerate(df):
+        stat = list(df.iloc[i])
+        if stat[1].lower() == "active":
+            stat[1] = "!<Active>(https://img.shields.io/badge/Active-brightgreen)"
+        elif stat[1].lower() == "error":
+            stat[1] = "!<Inactive>(https://img.shields.io/badge/Inactive-red)"
+        table += f"\n{replace_chars(str(stat))}"
+        
 
-table = ""
-table = f"\n{replace_chars(str(list(df.head())))}\n| ------- |  ------ | --------- |"
-for i, data in enumerate(df):
-    table += f"\n{replace_chars(str(list(df.iloc[i])))}" 
-    
+    file = open("README.md", "r")
+    feature_update = str(file.read()).split("# FEATURE LIST")[0]
+    feature_update += f"# FEATURE LIST\n\n{table}"
+    file = open("README.md", "w")
+    file.write(feature_update.replace("+", "-"))
+    file.close()
 
-file = open("README.md", "r")
-feature_update = str(file.read()).split("# FEATURE LIST")[0]
-feature_update += f"# FEATURE LIST\n\n{table}"
-file = open("README.md", "w")
-file.write(feature_update.replace("+", "-"))
-file.close()
+
+if __name__ == "__main__":
+    main()
