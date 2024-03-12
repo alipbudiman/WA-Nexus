@@ -29,7 +29,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Mention All Member On Groups |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Mention All Member On Groups (But Hide The Tags) |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Unsend Bot Message |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Check Who Read On Group |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
+| Check Who Read On Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Check Who Typing On Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Retrive Unsend Message From User In Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Get User Profile Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
