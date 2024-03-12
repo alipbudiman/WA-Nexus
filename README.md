@@ -2,7 +2,7 @@
 
 ![WA Nexus Thumbnail](document/image/bot%20nexus.png)
 
-Wa Nexus Bot is an intelligent bot with exciting features that can be used in WhatsApp groups or personal chats, designed to facilitate access to artificial intelligence (AI) and various other tools on the WhatsApp platform. This bot is an ambitious project developed by Alif Budiman as a non-profit contribution to the public. Get Free Bot [Here](https://wa-nexus.web.app/)
+Wa Nexus Bot is an intelligent bot with exciting features that can be used in WhatsApp groups or personal chats, designed to facilitate access to artificial intelligence (AI) and various other tools on the WhatsApp platform. This bot is an ambitious project developed by Alif Budiman as a non-profit contribution to the public. Get Free Bot [Here.](https://wa-nexus.web.app/)
 
 # Contributor
 **Design**
