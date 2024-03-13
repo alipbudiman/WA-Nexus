@@ -44,7 +44,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Generate Image To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Chit Chat (Chat With Nexus Ai) |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Play Music |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Spotify Music |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow) |  3/13/2024 |
+| Spotify Music |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
 | Random Anime Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Get Instagram Profile |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Get Ig Story |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
