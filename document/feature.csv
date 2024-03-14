@@ -22,45 +22,46 @@ Play Music,active,3/12/2024
 Spotify Music,active,3/13/2024
 Random Anime Image,active,3/12/2024
 Get Instagram Profile,active,3/12/2024
-Get Ig story,unknow,3/12/2024
-Get tiktok ptofile,unknow,3/12/2024
-get youtube video,unknow,3/12/2024
-Game Jodoh,unknow,3/12/2024
-Saya mirip & Dia mirip,unknow,3/12/2024
-filter image,unknow,3/12/2024
-make sticker,unknow,3/12/2024
-make meme sticker,unknow,3/12/2024
-confess,unknow,3/12/2024
-nsfw,unknow,3/12/2024
-shorten url,unknow,3/12/2024
-qr generator,unknow,3/12/2024
-docx to pdf,unknow,3/12/2024
-image to text,unknow,3/12/2024
-Encahting Image,unknow,3/12/2024
-Image to pdf,unknow,3/12/2024
-Generate image to url,unknow,3/12/2024
-edit background,unknow,3/12/2024
-invite bot by group links,unknow,3/12/2024
-Gacha Card Game,unknow,3/12/2024
-Tebak gambar,unknow,3/12/2024
-minesweeper,unknow,3/12/2024
-compiler,unknow,3/12/2024
-git clone,unknow,3/12/2024
-welcome message,unknow,3/12/2024
-leave message,unknow,3/12/2024
-anti send link to group,unknow,3/12/2024
-timeout user,unknow,3/12/2024
-kick user & kickall user,unknow,3/12/2024
-promote user & promote all user,unknow,3/12/2024
-demote user & demote all user,unknow,3/12/2024
-lock group,unknow,3/12/2024
-group announce mode,unknow,3/12/2024
-group setting menu (set group name topic and image),unknow,3/12/2024
-update group link,unknow,3/12/2024
-get group link,unknow,3/12/2024
-get group qr,unknow,3/12/2024
-Tik Tok Auto Downloader,unknow,3/13/2024
-You Tube Auto Downloader,unknow,3/13/2024
-Twitter Auto Downloader,unknow,3/13/2024
-Instagra post auto downloader,unknow,3/13/2024
-spotify  auto downloader,unknow,3/13/2024
+Get Ig story,active,3/12/2024
+Get tiktok ptofile,active,3/12/2024
+get youtube video,active,3/12/2024
+get pinterest image,active,
+Game Jodoh,active,3/12/2024
+Saya mirip & Dia mirip,active,3/12/2024
+filter image,active,3/12/2024
+make sticker,active,3/12/2024
+make meme sticker,active,3/12/2024
+confess,active,3/12/2024
+nsfw,active-some,3/12/2024
+shorten url,active,3/12/2024
+qr generator,active,3/12/2024
+docx to pdf,error,3/12/2024
+image to text,active,3/12/2024
+Encahting Image,active,3/12/2024
+Image to pdf,active,3/12/2024
+Generate image to url,active,3/12/2024
+edit background,active,3/12/2024
+invite bot by group links,active,3/12/2024
+Gacha Card Game,error,3/12/2024
+Tebak gambar,active,3/12/2024
+minesweeper,active,3/12/2024
+compiler,active,3/12/2024
+git clone,active,3/12/2024
+welcome message,active,3/12/2024
+leave message,active,3/12/2024
+anti send link to group,active,3/12/2024
+timeout user,active,3/12/2024
+kick user & kickall user,active,3/12/2024
+promote user & promote all user,active,3/12/2024
+demote user & demote all user,active,3/12/2024
+lock group,active,3/12/2024
+group announce mode,active,3/12/2024
+group setting menu (set group name topic and image),active,3/12/2024
+update group link,active,3/12/2024
+get group link,active,3/12/2024
+get group qr,active,3/12/2024
+Tik Tok Auto Downloader,active,3/13/2024
+You Tube Auto Downloader,active,3/13/2024
+Twitter Auto Downloader,wip,3/13/2024
+Instagra post auto downloader,active,3/13/2024
+spotify  auto downloader,active,3/13/2024
