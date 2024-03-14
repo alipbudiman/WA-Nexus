@@ -11,6 +11,7 @@ def replace_chars(input_string):
         .replace("<", "["))
     return modified_string
 
+
 def main():
     df = pd.read_csv('document/feature.csv')
 
@@ -19,6 +20,13 @@ def main():
     for i in range(len(df)):
         stat = list(df.iloc[i])
         stat[0] = stat[0].title()
+        """
+        active: feature active
+        active-slow: feature active but slow process
+        active-some: some feature active, some not
+        error: feature inactive
+        wip: feature under maintenance
+        """
         if stat[1].lower() == "active":
             stat[1] = "!<Active>(https://img.shields.io/badge/Active-brightgreen)"
         elif stat[1].lower() == "error":
@@ -27,18 +35,53 @@ def main():
             stat[1] = "!<Active Slow>(https://img.shields.io/badge/Active%20Slow-blue)"
         elif stat[1].lower() == "wip":
             stat[1] = "!<In Progress>(https://img.shields.io/badge/In%20Progress-yellow)"
+        elif stat[1].lower() == "active-some":
+            stat[1] = "!<In Progress>(https://img.shields.io/badge/Active%20Some-green)"
         else:
             stat[1] = "!<Inactive>(https://img.shields.io/badge/Will%20Be%20Check-gray)"
         table += f"\n{replace_chars(str(stat))}"
         
 
     file = open("README.md", "r")
-    feature_update = str(file.read()).split("# FEATURE LIST")[0]
-    feature_update += f"# FEATURE LIST\n\n{table}"
+    feature_update = str(file.read()).split("# FEATURE WILL BE ADDED (UPDATE)")[0]
+    feature_update += f"# FEATURE WILL BE ADDED (UPDATE)\n\n{table}"
     file = open("README.md", "w")
-    file.write(feature_update.replace("+", "-"))
+    file.write(feature_update)
     file.close()
 
+    df = pd.read_csv('document/update.csv')
+    table = ""
+    table = f"\n{replace_chars(str(list(df.head())))}\n| ------- |  ------ |"
+    for i in range(len(df)):
+        stat = list(df.iloc[i])
+        stat[0] = stat[0].title()
+        """
+        planning: the feature only planning
+        ongoing: the feature in progress (code/build)
+        wba: the feature alredy done, will be test
+        done-test: feature alredy tested and will added
+        added: feature alredy added to bot but not publish now
+        """
+        if stat[1].lower() == "planning":
+            stat[1] = "!<Active>(https://img.shields.io/badge/Planning-red)"
+        elif stat[1].lower() == "error":
+            stat[1] = "!<Inactive>(https://img.shields.io/badge/Ongoing-yellow)"
+        elif stat[1].lower() == "active-slow":
+            stat[1] = "!<Active Slow>(https://img.shields.io/badge/Will%20Be%20Added-blue)"
+        elif stat[1].lower() == "wip":
+            stat[1] = "!<In Progress>(https://img.shields.io/badge/Done%20Test-green)"
+        elif stat[1].lower() == "active-some":
+            stat[1] = "!<In Progress>(https://img.shields.io/badge/Added-brightgreen)"
+        else:
+            stat[1] = "!<Inactive>(https://img.shields.io/badge/Unknow-gray)"
+        table += f"\n{replace_chars(str(stat))}"
+
+    file = open("README.md", "r")
+    feature_update = str(file.read()).split("# FEATURE WILL BE ADDED (UPDATE)")[0]
+    feature_update += f"# FEATURE WILL BE ADDED (UPDATE)\n\n{table}"
+    file = open("README.md", "w")
+    file.write(feature_update)
+    file.close()
 
 if __name__ == "__main__":
     main()
