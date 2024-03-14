@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 
 def replace_chars(input_string):
@@ -38,16 +39,17 @@ def main():
         elif stat[1].lower() == "active-some":
             stat[1] = "!<In Progress>(https://img.shields.io/badge/Active%20Some-green)"
         else:
-            stat[1] = "!<Inactive>(https://img.shields.io/badge/Will%20Be%20Check-gray)"
+            stat[1] = "!<Will be check>(https://img.shields.io/badge/Will%20Be%20Check-gray)"
         table += f"\n{replace_chars(str(stat))}"
         
 
     file = open("README.md", "r")
-    feature_update = str(file.read()).split("# FEATURE WILL BE ADDED (UPDATE)")[0]
-    feature_update += f"# FEATURE WILL BE ADDED (UPDATE)\n\n{table}"
+    feature_update = str(file.read()).split("# FEATURE LIST")[0]
+    feature_update += f"# FEATURE LIST\n\n{table}"
     file = open("README.md", "w")
     file.write(feature_update)
     file.close()
+
 
     df = pd.read_csv('document/update.csv')
     table = ""
@@ -63,17 +65,17 @@ def main():
         added: feature alredy added to bot but not publish now
         """
         if stat[1].lower() == "planning":
-            stat[1] = "!<Active>(https://img.shields.io/badge/Planning-red)"
-        elif stat[1].lower() == "error":
-            stat[1] = "!<Inactive>(https://img.shields.io/badge/Ongoing-yellow)"
-        elif stat[1].lower() == "active-slow":
-            stat[1] = "!<Active Slow>(https://img.shields.io/badge/Will%20Be%20Added-blue)"
-        elif stat[1].lower() == "wip":
-            stat[1] = "!<In Progress>(https://img.shields.io/badge/Done%20Test-green)"
-        elif stat[1].lower() == "active-some":
-            stat[1] = "!<In Progress>(https://img.shields.io/badge/Added-brightgreen)"
+            stat[1] = "!<planning>(https://img.shields.io/badge/Planning-red)"
+        elif stat[1].lower() == "ongoing":
+            stat[1] = "!<ongoing>(https://img.shields.io/badge/Ongoing-yellow)"
+        elif stat[1].lower() == "wba":
+            stat[1] = "!<Will be added>(https://img.shields.io/badge/Will%20Be%20Added-blue)"
+        elif stat[1].lower() == "done-test":
+            stat[1] = "!<Done test>(https://img.shields.io/badge/Done%20Test-green)"
+        elif stat[1].lower() == "added":
+            stat[1] = "!<Added>(https://img.shields.io/badge/Added-brightgreen)"
         else:
-            stat[1] = "!<Inactive>(https://img.shields.io/badge/Unknow-gray)"
+            stat[1] = "!<Unknow>(https://img.shields.io/badge/Unknow-gray)"
         table += f"\n{replace_chars(str(stat))}"
 
     file = open("README.md", "r")

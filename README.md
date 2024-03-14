@@ -21,6 +21,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 
 # FEATURE LIST
 
+
 | Feature |  Status |  Check at |
 | ------- |  ------ | --------- |
 | Translate Language |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
@@ -46,53 +47,51 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Spotify Music |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
 | Random Anime Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Get Instagram Profile |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Get Ig Story |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Get Tiktok Ptofile |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Get Youtube Video |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Game Jodoh |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Saya Mirip & Dia Mirip |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Filter Image |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Make Sticker |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Make Meme Sticker |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Confess |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Nsfw |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Shorten Url |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Qr Generator |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Docx To Pdf |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Image To Text |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Encahting Image |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Image To Pdf |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Generate Image To Url |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Edit Background |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Invite Bot By Group Links |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Gacha Card Game |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Tebak Gambar |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Minesweeper |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Compiler |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Git Clone |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Welcome Message |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Leave Message |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Anti Send Link To Group |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Timeout User |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Kick User & Kickall User |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Promote User & Promote All User |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Demote User & Demote All User |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Lock Group |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Group Announce Mode |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Group Setting Menu (Set Group Name Topic And Image) |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Update Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Get Group Link |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Get Group Qr |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/12/2024 |
-| Tik Tok Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
-| You Tube Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
-| Twitter Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
-| Instagra Post Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
-| Spotify  Auto Downloader |  ![Inactive](https://img.shields.io/badge/Will%20Be%20Check-gray) |  3/13/2024 |
-
-
-# FEATURE WILL BE ADDED (UPDATE)
+| Get Ig Story |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Get Tiktok Ptofile |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Get Youtube Video |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Get Pinterest Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) | nan|
+| Game Jodoh |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Saya Mirip & Dia Mirip |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Filter Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Make Sticker |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Make Meme Sticker |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Confess |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Nsfw |  ![In Progress](https://img.shields.io/badge/Active%20Some-green) |  3/12/2024 |
+| Shorten Url |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Qr Generator |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Docx To Pdf |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
+| Image To Text |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Encahting Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Image To Pdf |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Generate Image To Url |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Edit Background |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Invite Bot By Group Links |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Gacha Card Game |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
+| Tebak Gambar |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Minesweeper |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Compiler |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Git Clone |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Welcome Message |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Leave Message |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Anti Send Link To Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Timeout User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Kick User & Kickall User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Promote User & Promote All User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Demote User & Demote All User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Lock Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Group Announce Mode |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Group Setting Menu (Set Group Name Topic And Image) |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Update Group Link |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Get Group Link |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Get Group Qr |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Tik Tok Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
+| You Tube Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
+| Twitter Auto Downloader |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow) |  3/13/2024 |
+| Instagra Post Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
+| Spotify  Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |# FEATURE WILL BE ADDED (UPDATE)
 
 
 | Will be added |  Status |
 | ------- |  ------ |
-| Spotify Chose & Play Music |  ![Active](https://img.shields.io/badge/Planning-red) |
+| Spotify Chose & Play Music |  ![planning](https://img.shields.io/badge/Planning-red) |
