@@ -44,8 +44,8 @@ def main():
         
 
     file = open("README.md", "r")
-    feature_update = str(file.read()).split("# FEATURE LIST")[0]
-    feature_update += f"# FEATURE LIST\n\n{table}"
+    feature_update = str(file.read()).split("\n# FEATURE LIST")[0]
+    feature_update += f"\n# FEATURE LIST\n\n{table}"
     file = open("README.md", "w")
     file.write(feature_update)
     file.close()
@@ -79,8 +79,8 @@ def main():
         table += f"\n{replace_chars(str(stat))}"
 
     file = open("README.md", "r")
-    feature_update = str(file.read()).split("# FEATURE WILL BE ADDED (UPDATE)")[0]
-    feature_update += f"# FEATURE WILL BE ADDED (UPDATE)\n\n{table}"
+    feature_update = str(file.read()).split("\n# FEATURE WILL BE ADDED (UPDATE)")[0]
+    feature_update += f"\n# FEATURE WILL BE ADDED (UPDATE)\n\n{table}"
     file = open("README.md", "w")
     file.write(feature_update)
     file.close()

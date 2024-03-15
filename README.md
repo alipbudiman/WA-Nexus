@@ -5,6 +5,12 @@
 Wa Nexus Bot is an intelligent bot with exciting features that can be used in WhatsApp groups or personal chats, designed to facilitate access to artificial intelligence (AI) and various other tools on the WhatsApp platform. This bot is an ambitious project developed by Alif Budiman as a non-profit contribution to the public. Get Free Bot [Here.](https://wa-nexus.web.app/)
 
 # Contributor
+
+**Resource & Development**
+
+- [Alif Budiman](https://github.com/alipbudiman)
+- [MangDTech](https://github.com/MangDTech)
+
 **Design**
 
 - [Yukki Reio](https://instagram.com/yukkireio._?igshid=MzRlODBiNWFlZA==)
@@ -89,9 +95,13 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | You Tube Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
 | Twitter Auto Downloader |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow) |  3/13/2024 |
 | Instagra Post Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
-| Spotify  Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |# FEATURE WILL BE ADDED (UPDATE)
+| Spotify  Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
+
+
+# FEATURE WILL BE ADDED (UPDATE)
 
 
 | Will be added |  Status |
 | ------- |  ------ |
 | Spotify Chose & Play Music |  ![planning](https://img.shields.io/badge/Planning-red) |
+| Command With Prompt |  ![planning](https://img.shields.io/badge/Planning-red) |
