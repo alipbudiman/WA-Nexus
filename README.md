@@ -105,3 +105,4 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Command With Prompt |  ![planning](https://img.shields.io/badge/Planning-red) |
 | Increst Quality Image {- Send Image} |  ![ongoing](https://img.shields.io/badge/Ongoing-yellow) |
 | Check Width Height Image {Internal} |  ![planning](https://img.shields.io/badge/Planning-red) |
+| Open Shorten {Rdirect Url} {Internal} |  ![planning](https://img.shields.io/badge/Planning-red) |
