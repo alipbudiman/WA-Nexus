@@ -103,4 +103,5 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | ------- |  ------ |
 | Spotify Chose & Play Music |  ![planning](https://img.shields.io/badge/Planning-red) |
 | Command With Prompt |  ![planning](https://img.shields.io/badge/Planning-red) |
-| Increst Quality Image |  ![planning](https://img.shields.io/badge/Planning-red) |
+| Increst Quality Image {- Send Image} |  ![ongoing](https://img.shields.io/badge/Ongoing-yellow) |
+| Check Width Height Image {Internal} |  ![planning](https://img.shields.io/badge/Planning-red) |
