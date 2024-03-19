@@ -1,0 +1,2 @@
+clear
+python contributor_tools/wanexus_see_status.py
