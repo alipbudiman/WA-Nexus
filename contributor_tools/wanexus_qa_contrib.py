@@ -95,9 +95,8 @@ def main():
     os.system(f'git commit -m "{commit_message}"')
     os.system("git push")
     
-    check_diffrent2 = open("README.md", "r")
-    if str(check_diffrent) != str(check_diffrent2):
-        webbrowser.open("https://github.com/alipbudiman/WA-Nexus")
+    webbrowser.open("https://github.com/alipbudiman/WA-Nexus")
+        
 
 if __name__ == "__main__":
     main()
