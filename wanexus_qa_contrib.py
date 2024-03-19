@@ -1,5 +1,7 @@
+import os
 import time
 import pandas as pd
+import webbrowser
 
 def replace_chars(input_string):
     # Replace "[" , "]" , and "," with "|"
@@ -15,6 +17,8 @@ def replace_chars(input_string):
 
 def main():
     df = pd.read_csv('document/feature.csv')
+
+    check_diffrent = open("README.md", "r")
 
     table = ""
     table = f"\n{replace_chars(str(list(df.head())))}\n| ------- |  ------ | --------- |"
@@ -84,6 +88,16 @@ def main():
     file = open("README.md", "w")
     file.write(feature_update)
     file.close()
+
+    commit_message = input("Enter Commit Message: ")
+    if commit_message == "":commit_message = "NA"
+    os.system("git add .")
+    os.system(f'git commit -m "{commit_message}"')
+    os.system("git push")
+    
+    check_diffrent2 = open("README.md", "r")
+    if str(check_diffrent) != str(check_diffrent2):
+        webbrowser.open("https://github.com/alipbudiman/WA-Nexus")
 
 if __name__ == "__main__":
     main()
