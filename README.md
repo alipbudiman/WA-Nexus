@@ -96,6 +96,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Twitter Auto Downloader |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow) |  3/13/2024 |
 | Instagra Post Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
 | Spotify  Auto Downloader |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/13/2024 |
+| Increst Quality Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/20/2024 |
 # FEATURE WILL BE ADDED (UPDATE)
 
 
@@ -103,6 +104,5 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | ------- |  ------ |
 | Spotify Chose & Play Music |  ![planning](https://img.shields.io/badge/Planning-red) |
 | Command With Prompt |  ![planning](https://img.shields.io/badge/Planning-red) |
-| Increst Quality Image {- Send Image} |  ![ongoing](https://img.shields.io/badge/Ongoing-yellow) |
 | Check Width Height Image {Internal} |  ![planning](https://img.shields.io/badge/Planning-red) |
 | Open Shorten {Rdirect Url} {Internal} |  ![planning](https://img.shields.io/badge/Planning-red) |
