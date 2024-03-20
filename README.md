@@ -68,7 +68,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Qr Generator |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Docx To Pdf |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Image To Text |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Encahting Image |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Encahting Image |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Image To Pdf |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Generate Image To Url |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Edit Background |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
