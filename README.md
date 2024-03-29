@@ -44,7 +44,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Make Group Pool |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Bing Ai |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Bard Ai |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
-| Chat Gpt |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Chat Gpt |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/30/2024 |
 | Chat Gpt Turbo |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Generate Text To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Generate Image To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
@@ -73,7 +73,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Generate Image To Url |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Edit Background |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Invite Bot By Group Links |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Gacha Card Game |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow) |  3/12/2024 |
+| Gacha Card Game |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/30/2024 |
 | Tebak Gambar |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Minesweeper |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Compiler |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
