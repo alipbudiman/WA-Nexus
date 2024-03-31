@@ -42,10 +42,11 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | See Bot Setting For Groups |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Get Group Information |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Make Group Pool |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Bing Ai |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Bing Ai |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/31/2024 |
 | Bard Ai |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Chat Gpt |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/30/2024 |
 | Chat Gpt Turbo |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
+| Dall E |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/31/2024 |
 | Generate Text To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Generate Image To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Chit Chat (Chat With Nexus Ai) |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
