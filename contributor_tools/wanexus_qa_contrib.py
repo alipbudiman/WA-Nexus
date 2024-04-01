@@ -42,6 +42,8 @@ def main():
             stat[1] = "!<In Progress>(https://img.shields.io/badge/In%20Progress-yellow)"
         elif stat[1].lower() == "active-some":
             stat[1] = "!<In Progress>(https://img.shields.io/badge/Active%20Some-green)"
+        elif stat[1].lower() == "soon":
+            stat[1] = "!<In Progress>(https://img.shields.io/badge/Coming%20Soon-orange)"
         else:
             stat[1] = "!<Will be check>(https://img.shields.io/badge/Will%20Be%20Check-gray)"
         table += f"\n{replace_chars(str(stat))}"

@@ -47,6 +47,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Chat Gpt |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/30/2024 |
 | Chat Gpt Turbo |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Dall E |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/31/2024 |
+| Ai Draw |  ![In Progress](https://img.shields.io/badge/Coming%20Soon-orange) | nan|
 | Generate Text To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Generate Image To Image (Ai Image) |  ![Active Slow](https://img.shields.io/badge/Active%20Slow-blue) |  3/12/2024 |
 | Chit Chat (Chat With Nexus Ai) |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
