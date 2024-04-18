@@ -83,7 +83,7 @@ Wa Nexus Bot is an intelligent bot with exciting features that can be used in Wh
 | Leave Message |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Anti Send Link To Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Timeout User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
-| Kick User & Kickall User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
+| Kick User & Kickall User |  ![Inactive](https://img.shields.io/badge/Inactive-red) |  3/12/2024 |
 | Promote User & Promote All User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Demote User & Demote All User |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |
 | Lock Group |  ![Active](https://img.shields.io/badge/Active-brightgreen) |  3/12/2024 |

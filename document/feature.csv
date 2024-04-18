@@ -52,7 +52,7 @@ welcome message,active,3/12/2024
 leave message,active,3/12/2024
 anti send link to group,active,3/12/2024
 timeout user,active,3/12/2024
-kick user & kickall user,active,3/12/2024
+kick user & kickall user,error,3/12/2024
 promote user & promote all user,active,3/12/2024
 demote user & demote all user,active,3/12/2024
 lock group,active,3/12/2024
