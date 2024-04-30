@@ -2,6 +2,8 @@ import pandas as pd
 from prettytable import PrettyTable
 
 
+input("Type any for see table")
+
 print("FEATURE:")
 df = pd.read_csv('document/feature.csv')
 
